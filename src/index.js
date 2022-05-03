@@ -52,8 +52,7 @@ Mirador.viewer({
     {
       "loadedManifest": "https://iiif.lib.harvard.edu/manifests/drs:48309543",
       "canvasIndex": 2,
-      sideBarOpen: false,
-
+      view:'gallery',
     }
   ],
 
