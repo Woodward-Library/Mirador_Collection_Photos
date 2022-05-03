@@ -12,7 +12,7 @@ Mirador.viewer({
     sideBarPanel: 'info', // Configure which sidebar is selected by default. Options: info, attribution, canvas, annotations, search
     defaultSidebarPanelHeight: 201,  // Configure default sidebar height in pixels
     defaultSidebarPanelWidth: 235, // Configure default sidebar width in pixels
-    defaultView: 'single',  // Configure which viewing mode (e.g. single, book, gallery) for windows to be opened in
+    defaultView: 'book',  // Configure which viewing mode (e.g. single, book, gallery) for windows to be opened in
     forceDrawAnnotations: false,
     hideWindowTitle: false, // Configure if the window title is shown in the window title bar or not
     highlightAllAnnotations: false, // Configure whether to display annotations on the canvas by default
