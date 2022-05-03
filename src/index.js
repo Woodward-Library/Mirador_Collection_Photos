@@ -2,6 +2,7 @@ import Mirador from "mirador/dist/mirador.min.js";
 
 Mirador.viewer({
   id: "app",
+  
   window: {
     allowClose: false, // Configure if windows can be closed or not
     allowFullscreen: true, // Configure to show a "fullscreen" button in the WindowTopBar
