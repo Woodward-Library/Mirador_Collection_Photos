@@ -3,7 +3,6 @@ import Mirador from "mirador/dist/mirador.min.js";
 Mirador.viewer({
   id: "app",
   window: {
-    views: [{ key: "gallery" }, {key:"single"}, {key: "book"}],
     allowClose: true, // Configure if windows can be closed or not
     allowFullscreen: false, // Configure to show a "fullscreen" button in the WindowTopBar
     allowMaximize: true, // Configure if windows can be maximized or not
@@ -20,6 +19,12 @@ Mirador.viewer({
     showLocalePicker: false, // Configure locale picker for multi-lingual metadata
     sideBarOpen: false, // Configure if the sidebar (and its content panel) is open by default
     switchCanvasOnSearch: true, // Configure if Mirador should automatically switch to the canvas of the first search result
+    views: [
+      { key: 'single', behaviors: ['individuals'] },
+      { key: 'book', behaviors: ['paged'] },
+      { key: 'scroll', behaviors: ['continuous'] },
+      { key: 'gallery' },
+    ],
   },
 
   panels: { // Configure which panels are visible in WindowSideBarButtons
@@ -57,6 +62,19 @@ Mirador.viewer({
    height: 130, // height of entire ThumbnailNavigation area when position is "far-bottom"
    width: 100, // width of one canvas (doubled for book view) in ThumbnailNavigation area when position is "far-right"
  },
+
+ galleryView: {
+   height: 120, // height of gallery view thumbnails
+   width: null, // width of gallery view thumbnails (or null, to auto-calculate an aspect-ratio appropriate size)
+ },
+ osdConfig: { // Default config used for OpenSeadragon
+   alwaysBlend: false,
+   blendTime: 0.1,
+   preserveImageSizeOnResize: true,
+   preserveViewport: true,
+   showNavigationControl: false,
+ },
+
 
  workspaceControlPanel: {
   enabled: false, // Configure if the control panel should be rendered.  Useful if you want to lock the viewer down to only the configured manifests
