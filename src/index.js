@@ -51,7 +51,7 @@ Mirador.viewer({
 
   windows: [
     {
-      "loadedManifest": " https://viewer-demo.library.ubc.ca/manifests/macmillan_collection_manifest.json",
+      "loadedManifest": " https://raw.githubusercontent.com/Woodward-Library/Mirador_Collection_Photos/main/src/manfest.json",
       "canvasIndex": 0,
       view:'gallery',
     }
