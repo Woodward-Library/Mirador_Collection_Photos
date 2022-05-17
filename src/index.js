@@ -51,7 +51,7 @@ Mirador.viewer({
 
   windows: [
     {
-      "loadedManifest": "https://iiif.library.ubc.ca/presentation/cdm.langmann.1-0053437/manifest",
+      "loadedManifest": " https://viewer-demo.library.ubc.ca/manifests/macmillan_collection_manifest.json",
       "canvasIndex": 0,
       view:'gallery',
     }
