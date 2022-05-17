@@ -1,0 +1,220 @@
+// 20220517104457
+// https://viewer-demo.library.ubc.ca/manifests/macmillan_collection_manifest.json
+
+{
+  "label": "MacMillan Bloedel Limited fonds",
+  "metadata": [
+    {
+      "label": "title",
+      "value": [
+        "MacMillan Bloedel Limited fonds"
+      ]
+    }
+  ],
+  "attribution": "For rights and reproduction information please contact UBC Library",
+  "collections": [
+    {
+      "@id": "https://viewer-demo.library.ubc.ca/manifests/collection/part1",
+      "@type": "sc:Collection",
+      "label": "MacMillan Bloedel Limited fonds Collection"
+    }
+  ],
+  "manifests": [
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349209/manifest",
+      "@type": "sc:Manifest",
+      "label": "Evaporators and condensers for Alpulp expansion August 3",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349209.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349208/manifest",
+      "@type": "sc:Manifest",
+      "label": "Port Alberni Pulp Mill lime kiln stack, April 21",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349208.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349237/manifest/",
+      "@type": "sc:Manifest",
+      "label": "E.G. Shorter as General Manager, in old office at Alberni Pulp and Paper Division",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349237.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349214/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Aerial view of Sarita Division (now Franklin River) October 3",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349214.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349205/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Installation of chip blowline for Alpulp expansion August 3",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349205.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349234/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Dumping of logs at Sproat Lake",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349234.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349241/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Dormitories",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349241.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349226/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Lumber scow loading dock, August 5",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349226.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349248/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Sid Howard working in seed plot at B. C. Forest Service Nursery, August",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349248.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349242/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Alberni Pacific Lumber Mill w. safety notice",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349242.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349246/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Rotating Drum Barkers with logs at Harmac Pulp Division, June 26",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349246.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349240/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Edger",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349240.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349245/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Chokermen at work, October 12",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349245.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349243/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Alberni Pulp & Paper Division employees",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349243.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349247/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Unidentified visitors to Ash River Valley tree plantation",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349247.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349286/manifest/",
+      "@type": "sc:Manifest",
+      "label": "Brooks-Scanlon Lumber Company felling and bucking logging process",
+      "thumbnail": [
+        {
+          "id": "https://oc2-iiif.library.ubc.ca/image/cdm.macmillan.1-0349286.0000/full/80,100/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    }
+  ],
+  "description": "MacMillan Bloedel Collection description",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://viewer-demo.library.ubc.ca/manifests/macmillan_collection_manifest.json",
+  "@type": "sc:Collection"
+}
